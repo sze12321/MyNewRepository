@@ -1,0 +1,1 @@
+_G.AllowedPlayer = {"sze12321"}
